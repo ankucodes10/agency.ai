@@ -42,7 +42,7 @@ Agency-AI/
 ├── vite.config.js
 └── README.md
 ```
-
+# 📸 Screenshots
 <img width="1878" height="893" alt="Screenshot 2026-01-17 152922" src="https://github.com/user-attachments/assets/1a68178b-5594-4036-b5e7-a409dc92e5f0" />
 
 
