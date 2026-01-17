@@ -29,7 +29,7 @@ Agency-AI is a modern, responsive website built to showcase a digital agency pow
 <li>React Hot Toast- Notification</li>
 
 ## 📂 Project Structure
-
+```
 Agency-AI/
 ├── public/
 ├── src/
@@ -41,6 +41,7 @@ Agency-AI/
 ├── package.json
 ├── vite.config.js
 └── README.md
+```
 
 # 🌍 Live Demo
 https://agencyai-azure.vercel.app
