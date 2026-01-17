@@ -1,17 +1,66 @@
-#Agency-AI Website
+# Agency-AI Website
 
 Agency-AI is a modern, responsive website built to showcase a digital agency powered by AI solutions. The project focuses on clean UI, smooth animations, and fast performance using modern frontend tools.
 
-✨ Features
+## ✨Features
 
 <li>⚡ Fast and optimized build</li>
 
-🎨 Clean and modern UI design
+<li>🎨 Clean and modern UI design</li>
 
-📱 Fully responsive layout
+<li>📱 Fully responsive layout</li>
 
-🌙 Smooth scrolling experience
+<li>🌙 Smooth scrolling experience</li>
 
-🚀 Production-ready deployment
+<li>🚀 Production-ready deployment</li>
 
-🧠 AI agency themed interface
+<li>🧠 AI agency themed interface</li>
+
+## 🛠️ Tech Stack
+
+<li>React.js- UI libary</li>
+
+<li>Vite- build tool and dev server</li>
+
+<li>Tailwind CSS- Utility-first CSS framework</li>
+
+<li>Motion- Animation Library</li>
+
+<li>React Hot Toast- Notification</li>
+
+## 📂 Project Structure
+
+Agency-AI/
+├── public/
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── App.jsx
+│   └── main.jsx
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+
+# 🌍 Live Demo
+https://agencyai-azure.vercel.app
+
+# 🤝 Contributing
+**1.** Contributions are welcome!
+
+**2.** Fork the project
+
+**3.** Create your feature branch
+
+**4.** Commit your changes
+
+**5.** Push to the branch
+
+**6.** Open a Pull Request
+
+# 📜 License
+
+This project is licensed under the MIT License.
+
+**Happy Coding!** 🚀
+
